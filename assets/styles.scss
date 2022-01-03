@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Knewave&display=swap');
+
+.fancy-title {
+    font-family: 'Knewave', cursive;
+    font-size: 48px;
+  } 
+
+  .signin-layout {
+    background-color: $primary-color;
+  }
+
+  .jello-topbar {
+    background-color: $secondary-color;
+  }
+
+  .logo {
+    font-family: 'Knewave';
+
+  }
+
+  .jello-user {
+    font-size: 10px;
+    margin-bottom: 0px!important;
+    text-align: right;
+  }
+
+  .jello-board-title {
+    margin: 20px 20px 0px 0px;
+    .v-card_subtitle {
+      font-size: 8px;
+    }
+  }
